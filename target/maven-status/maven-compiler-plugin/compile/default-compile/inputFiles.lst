@@ -1,0 +1,14 @@
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/utils/ApacheHttpClientConfig.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/utils/RestTemplateConfig.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/dto/ResourcePoolCollectionDTO.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/dto/ResourcePoolDTO.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/vmware/AprovisionarMaquinaVirtualHandler.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/cons/HttpClientConstants.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/Application.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/utils/Utils.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/utils/CustomRestTemplate.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/cons/VmwareConstants.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/dto/DatastoreDTO.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/vmware/ValidarCapacidadHandler.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/dto/FolderDTO.java
+/Users/arsc/Documents/Proyectos/Microservices/ms-aprovisionamiento/src/main/java/com/tesis/automation/dto/MaquinaVirtualDTO.java

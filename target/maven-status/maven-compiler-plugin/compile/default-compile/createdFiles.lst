@@ -1,0 +1,17 @@
+com/tesis/automation/cons/HttpClientConstants.class
+com/tesis/automation/utils/RestTemplateConfig.class
+com/tesis/automation/utils/Utils$1.class
+com/tesis/automation/dto/FolderDTO.class
+com/tesis/automation/utils/ApacheHttpClientConfig$1.class
+com/tesis/automation/vmware/AprovisionarMaquinaVirtualHandler.class
+com/tesis/Application.class
+com/tesis/automation/utils/CustomRestTemplate.class
+com/tesis/automation/dto/MaquinaVirtualDTO.class
+com/tesis/automation/utils/Utils.class
+com/tesis/automation/dto/ResourcePoolCollectionDTO.class
+com/tesis/automation/utils/ApacheHttpClientConfig.class
+com/tesis/automation/vmware/ValidarCapacidadHandler.class
+com/tesis/automation/dto/ResourcePoolDTO$ResourceAllocationDTO.class
+com/tesis/automation/dto/DatastoreDTO.class
+com/tesis/automation/dto/ResourcePoolDTO.class
+com/tesis/automation/cons/VmwareConstants.class

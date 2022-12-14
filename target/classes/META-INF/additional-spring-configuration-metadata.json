@@ -1,0 +1,97 @@
+{"properties": [
+  {
+    "name": "url.rest.api.camunda",
+    "type": "java.lang.String",
+    "description": "A description for 'url.rest.api.camunda'"
+  },
+  {
+    "name": "logging.level.org.camunda.bpm.client",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.level.org.camunda.bpm.client'"
+  },
+  {
+    "name": "camunda.bpm.client.subscriptions.score-provider.variable-names",
+    "type": "java.lang.String",
+    "description": "A description for 'camunda.bpm.client.subscriptions.score-provider.variable-names'"
+  },
+  {
+    "name": "camunda.bpm.client.subscriptions.score-provider.process-definition-key",
+    "type": "java.lang.String",
+    "description": "A description for 'camunda.bpm.client.subscriptions.score-provider.process-definition-key'"
+  },
+  {
+    "name": "camunda.bpm.client.subscriptions.loanGranter.variable-names",
+    "type": "java.lang.String",
+    "description": "A description for 'camunda.bpm.client.subscriptions.loanGranter.variable-names'"
+  },
+  {
+    "name": "camunda.bpm.client.subscriptions.loanGranter.process-definition-key",
+    "type": "java.lang.String",
+    "description": "A description for 'camunda.bpm.client.subscriptions.loanGranter.process-definition-key'"
+  },
+  {
+    "name": "vmware.vcenter.host",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.host'"
+  },
+  {
+    "name": "vmware.vcenter.folder.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.folder.api'"
+  },
+  {
+    "name": "vmware.vcenter.datastore.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.datastore.api'"
+  },
+  {
+    "name": "vmware.vcenter.cluster.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.cluster.api'"
+  },
+  {
+    "name": "vmware.vcenter.datastore.all.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.datastore.all.api'"
+  },
+  {
+    "name": "vmware.vcenter.resource-pool.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.resource-pool.api'"
+  },
+  {
+    "name": "vmware.vcenter.host.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.host.api'"
+  },
+  {
+    "name": "vmware.vcenter.vm.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.vm.api'"
+  },
+  {
+    "name": "vmware.vcenter.vm.relocate.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.vm.relocate.api'"
+  },
+  {
+    "name": "vmware.vcenter.resource-pool.all.api",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.vcenter.resource-pool.all.api'"
+  },
+  {
+    "name": "vmware.host.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.host.hostname'"
+  },
+  {
+    "name": "vmware.host.username",
+    "type": "java.lang.String",
+    "description": "A description for 'vmware.host.username'"
+  },
+  {
+    "name": "wmware.host.password",
+    "type": "java.lang.String",
+    "description": "A description for 'wmware.host.password'"
+  }
+]}
